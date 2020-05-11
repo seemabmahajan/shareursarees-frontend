@@ -1,0 +1,25 @@
+body {
+    background-color: #eddcd2;
+}
+
+.specefic {
+    margin-bottom: 10px;
+    margin-top: 2px;
+    font-style: unset; 
+    border-radius: 10px;
+    background-color: #fff1e6;
+}
+
+
+.imgspecs{
+    border-style: hidden;
+    border-color: brown;
+    
+    
+}
+
+.colMod, .modTitle {
+    background-color: #6a040f;
+    color:beige;
+    
+}
