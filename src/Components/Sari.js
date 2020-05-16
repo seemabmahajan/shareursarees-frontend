@@ -55,7 +55,7 @@ export default function Sari(props) {
 				</Card.Text>
 				
 
-				<div>
+				{/* <div>
 				<Button variant="dark" onClick={() => setSmShow(true)}>Reserve</Button>{' '}
 				
 				<Modal
@@ -81,7 +81,7 @@ export default function Sari(props) {
 					</div> </Modal.Body>
 				</Modal>
 				
-			  </div>
+			  </div> */}
 			</Card.Body>
 		</Card>
 

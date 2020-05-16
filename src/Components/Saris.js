@@ -17,6 +17,7 @@ export default class Saris extends React.Component {
         console.log(res.data)
         this.setState({
             sarisArr:res.data
+          
         })
     
     })
